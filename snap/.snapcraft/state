@@ -1,0 +1,12 @@
+!GlobalState
+assets:
+  build-packages:
+  - libltdl-dev=2.4.6-0.1
+  - autotools-dev=20150820.1
+  - m4=1.4.17-5
+  - automake=1:1.15-4ubuntu1
+  - autoconf=2.69-9
+  - autopoint=0.19.7-2ubuntu3.1
+  - libtool=2.4.6-0.1
+  - libsigsegv2=2.10-4
+  build-snaps: []
